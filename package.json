@@ -136,7 +136,7 @@
     "rimraf": "^2.4.3",
     "source-map-loader": "^0.2.3",
     "webpack": "^1.12.14",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^3.1.11"
   },
   "optionalDependencies": {
     "olm": "https://matrix.org/packages/npm/olm/olm-2.2.1.tgz"
